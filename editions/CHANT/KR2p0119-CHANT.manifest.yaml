@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR2p0119/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0119/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 青海大通縣上孫家寨一一五號漢墓木簡
+  identifiers:
+    krp: KR2p0119
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0119.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0119_001-CHANT.yaml, hash: 'sha256:075729596817f0cd9edd649564747bca94bdf4fbac71374968c7d57c19427560'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0119_001-CHANT.markers.yaml, hash: 'sha256:f8d70c6fe342b92e958429c4b928650df9668c2d086198a0229193eb2ca38fa2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0119_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 1900
+  label: 散見簡牘合輯青海大通縣上孫家寨一一五號漢墓木簡
+  type: section
+  level: 1
+hash: sha256:22251c86940dfcb377b9c9ceac37bd48be7b6881218433b9e9426684d4f7a791
