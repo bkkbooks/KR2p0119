@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0119_001.yaml, hash: 'sha256:85852a54d1e929ec8b7467b545296c08f3096be96dce32b8f5753712dbddc42e'}
+  - {seq: 1, filename: KR2p0119_001.yaml, hash: 'sha256:075729596817f0cd9edd649564747bca94bdf4fbac71374968c7d57c19427560'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0119_001.markers.yaml, hash: 'sha256:060f9680b06515cb4f888e466ace72333003fc1cbee0a18b01acd5ecc664fb96'}
+  - {seq: 1, role: markers, filename: assets/KR2p0119_001.markers.yaml, hash: 'sha256:e17baaf5801ff68e5881c5370e1d3d6e83ca994235628734a14305c2d4a2161b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 散見簡牘合輯青海大通縣上孫家寨一一五號漢墓木簡
   type: section
   level: 1
-hash: sha256:5ef43e898ca74f1720283af96d73420874587c92eb1bb07e9f585670d63fc56f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b534f8484df9024ba5a7f7ee500c853e78bbcb5598390ecf2e9b9db3c89bdecc
