@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0119/v1
 canonical_location: https://kanripo.org/bkk/KR2p0119/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 青海大通縣上孫家寨一一五號漢墓木簡
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0119_001.yaml, hash: 'sha256:075729596817f0cd9edd649564747bca94bdf4fbac71374968c7d57c19427560'}
+  - {seq: 1, filename: KR2p0119_001.yaml, hash: 'sha256:67c977ce19238c1f34c7bfd123eaa4b7f394344840250df828cd3d3c8f7a547b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0119_001.markers.yaml, hash: 'sha256:e17baaf5801ff68e5881c5370e1d3d6e83ca994235628734a14305c2d4a2161b'}
+  - {seq: 1, role: markers, filename: assets/KR2p0119_001.markers.yaml, hash: 'sha256:324a55de5d52dc07f7ee595580b725b88e2eb321b90bae72ff7d3e0c968cbb29'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 散見簡牘合輯青海大通縣上孫家寨一一五號漢墓木簡
   type: section
   level: 1
-hash: sha256:b534f8484df9024ba5a7f7ee500c853e78bbcb5598390ecf2e9b9db3c89bdecc
+hash: sha256:818d5e8f3a0b8d054b7256207d0dc4f195e9a845f47d81bfe29c9993eb9f33c0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
